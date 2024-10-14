@@ -10,3 +10,4 @@ Es dient als Übungsprojekt, um grundlegende Programmierkenntnisse in Java zu ve
 	1.	Sinnvolle Variablennamen: Überprüfung, ob die verwendeten Variablen und Methoden aussagekräftige und verständliche Namen haben, die ihre Funktion klar widerspiegeln.
 	2.	Private Felder und Setter-Nutzung: Sicherstellen, dass Klassenfelder korrekt als private deklariert sind und dass Setter-Methoden angemessen verwendet werden, um den Zugriff auf diese Felder zu kontrollieren.
 	3.	Methoden mit angemessener Anzahl von Übergabeparametern: Überprüfung, ob Methoden nicht zu viele Parameter haben, um die Lesbarkeit und Wartbarkeit des Codes zu gewährleisten.
+    4.  Skill-Level: Das Level des Entwicklers ist Anfänger, die Kommentare sollen daher entsprechend aufbereitet werden. 
