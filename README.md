@@ -5,7 +5,8 @@ Das Tool ermöglicht es dem Benutzer, Autos hinzuzufügen, anzuzeigen, zu bearbe
 Zusätzlich bietet es Funktionen zur Verwaltung von Fahrzeugtypen und Besitzern. 
 Es dient als Übungsprojekt, um grundlegende Programmierkenntnisse in Java zu vertiefen und den Umgang mit objektorientierter Programmierung sowie komplexeren Datenstrukturen zu üben.
 
-### Fokus für den Reviewer
+### Fokus für den Reviewer 
+> WICHTIG: Kommentare sind nur dann relevant, wenn sie sich auf diese Anforderungen beziehen
 
 	1.	Sinnvolle Variablennamen: Überprüfung, ob die verwendeten Variablen und Methoden aussagekräftige und verständliche Namen haben, die ihre Funktion klar widerspiegeln.
 	2.	Private Felder und Setter-Nutzung: Sicherstellen, dass Klassenfelder korrekt als private deklariert sind und dass Setter-Methoden angemessen verwendet werden, um den Zugriff auf diese Felder zu kontrollieren.
